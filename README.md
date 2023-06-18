@@ -2,12 +2,12 @@
 <h1 align="center">Selamat datang di OneWayTicket! 👋</h1>
 
 ## Identitas Nama Kelompok
-**                              
+```bash                        
 1. Rifka Annur Lestari 					12030121120036
 2. Tazkia Rufaida 					    12030121120058
 3. Nabila Adlya Arumdhany 				12030121140316
 4. Denia Mazaya Retsa Utomo 		    12030121140334
-
+```
 
 ## Apa itu OneWayTicket?
 
@@ -64,6 +64,9 @@ DB_PASSWORD=
 ```
 
 3. **Instalasi website**
+
+php artisan key:generate
+php artisan migrate --seed
 
 ```bash
 php artisan key:generate
