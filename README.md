@@ -8,7 +8,6 @@
 3. Nabila Adlya Arumdhany            12030121140316
 4. Denia Mazaya Retsa Utomo          12030121140334
 ```
-"C:\Users\LENOVO\OneDrive\Pictures\koding\2.png"
 
 ```bash
 ##Tugas Pengkodean dan Pemrograman
@@ -111,8 +110,8 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## Author
 
--   Facebook : <a href="https://web.facebook.com/adhiariyadi.me/"> Adhi Ariyadi</a>
--   LinkedIn : <a href="https://www.linkedin.com/in/adhiariyadi/"> Adhi Ariyadi</a>
+-   Youtube : <"https://youtu.be/cHfPMwjP3FQ"> OneWayTicket</a>
+  
 
 ## Daftar Pustaka
 Github Inc.2021.adhiariyadi/Ticket-Laravel. Diakses pada 21 April 2022, dari https://github.com/adhiariyadi/Ticket-Laravel 
