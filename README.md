@@ -13,7 +13,7 @@
 
 Web Ticket yang dibuat oleh <a href="(https://github.com/1onewayticket/OneWayTicket.git)"> OneWayTicket </a>,
 **OneWayTicket adalah Website untuk pemesanan ticket dengan mudah melalui website, ticket yang tersedia sangat beragam dan dapt di percaya .**
-kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penempatan dan pendapatan pada wab apk. Pada web ini kami meminjam waeb [https://github.com/adhiariyadi] sebagai bahan acuan belar kami untuk itu kami sangat berterimakasih kepada adhiariyadi
+kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penempatan dan pendapatan pada wab apk. Pada web ini kami meminjam waeb [https://github.com/adhiariyadi] sebagai bahan acuan belajar kami untuk itu kami sangat berterimakasih kepada adhiariyadi
 
 ## Fitur apa saja yang tersedia di OnewayTicket?
 
