@@ -8,6 +8,7 @@
 3. Nabila Adlya Arumdhany            12030121140316
 4. Denia Mazaya Retsa Utomo          12030121140334
 ```
+"C:\Users\LENOVO\OneDrive\Pictures\koding\2.png"
 
 ```bash
 ##Tugas Pengkodean dan Pemrograman
