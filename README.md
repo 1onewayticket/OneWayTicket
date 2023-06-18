@@ -8,6 +8,16 @@
 3. Nabila Adlya Arumdhany            12030121140316
 4. Denia Mazaya Retsa Utomo          12030121140334
 ```
+```bash
+Tugas Pengkodean dan Pemrograman
+Akuntansi UNDIP
+Semester 4
+
+
+Aplikasi Akuntansi-Keuangan Berbasis Web
+"One Way Ticket"
+
+```
 
 ## Apa itu OneWayTicket?
 
