@@ -12,9 +12,9 @@
 ## Apa itu OneWayTicket?
 
 
-Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. Dan kelompok kami dengan tampilan yang menarik
+Web Ticket yang dibuat oleh <a href="(https://github.com/1onewayticket/OneWayTicket.git)"> OneWayTicket </a>. kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penempatan dan pendapatan pada wab apk.
 
-**OneWayTicket adalah Website untuk pemesanan ticket dengan mudah melalui website.**
+**OneWayTicket adalah Website untuk pemesanan ticket dengan mudah melalui website, ticket yang tersedia sangat beragam dan dapt di percaya .**
 
 ## Fitur apa saja yang tersedia di OnewayTicket?
 
@@ -48,7 +48,7 @@ Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariya
 1. **Clone Repository**
 
 ```bash
-git clone (https://github.com/1onewayticket/OneWayTicket.git)
+git clone https://github.com/1onewayticket/OneWayTicket.git
 cd Ticket-Laravel
 composer install
 cp .env.example .env
