@@ -3,18 +3,16 @@
 
 ## Identitas Nama Kelompok
 ```bash                        
-1. Rifka Annur Lestari 					12030121120036
-2. Tazkia Rufaida 					    12030121120058
-3. Nabila Adlya Arumdhany 				12030121140316
-4. Denia Mazaya Retsa Utomo 		    12030121140334
+1. Rifka Annur Lestari               12030121120036
+2. Tazkia Rufaida                    12030121120058
+3. Nabila Adlya Arumdhany            12030121140316
+4. Denia Mazaya Retsa Utomo          12030121140334
 ```
 
 ## Apa itu OneWayTicket?
 
-
-Web Ticket yang dibuat oleh <a href="(https://github.com/1onewayticket/OneWayTicket.git)"> OneWayTicket </a>. kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penempatan dan pendapatan pada wab apk.
-
 **OneWayTicket adalah Website untuk pemesanan ticket dengan mudah melalui website, ticket yang tersedia sangat beragam dan dapt di percaya .**
+Web Ticket yang dibuat oleh <a href="(https://github.com/1onewayticket/OneWayTicket.git)"> OneWayTicket </a>, kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penempatan dan pendapatan pada wab apk. Pada web ini kami meminjam waeb [https://github.com/adhiariyadi] sebagai bahan acuan belar kami untuk itu kami sangat berterimakasih kepada adhiariyadi
 
 ## Fitur apa saja yang tersedia di OnewayTicket?
 
@@ -25,6 +23,14 @@ Web Ticket yang dibuat oleh <a href="(https://github.com/1onewayticket/OneWayTic
 -   Category & CRUD
 -   Pemesanan Ticket
 -   Dan lain-lain
+  
+##  Instalasi
+*Xampp
+*phpMyAdmin
+*Composer
+*Visual Studio Code
+*Notepad++
+*Git Bash
 
 ## Release Date
 
