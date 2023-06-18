@@ -1,4 +1,4 @@
-=======
+
 <h1 align="center">Selamat datang di OneWayTicket! 👋</h1>
 
 ## Identitas Nama Kelompok
@@ -12,7 +12,7 @@
 ## Apa itu OneWayTicket?
 
 
-Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. Dan di ubah kelompok kami dengan tampilan yang menarik
+Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. Dan kelompok kami dengan tampilan yang menarik
 
 **OneWayTicket adalah Website untuk pemesanan ticket dengan mudah melalui website.**
 
@@ -28,9 +28,9 @@ Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariya
 
 ## Release Date
 
-**Release date : 28 Apr 2020**
+**Release date : 16 juni 2023**
 
-> Ticket merupakan project open source yang dibuat oleh Adhi Ariyadi. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+> OneWayTicket merupakan project open source yang dibuat oleh Kelompok Kami. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
 ---
 
@@ -103,4 +103,4 @@ IdCloudhost.2020.Pengertian Aplikasi: Fungsi, Klasifikasi, dan Contoh. Diakses p
 
 Auto2000 Digiroom. 2021.Pengertian, Jenis, dan Fungsi Transportasi. Diakses pada 16 Juni 2022, dari https://auto2000.co.id/berita-dan-tips/fungsi-transportasi# 
 
->>>>>>> 59943cc9ddb8448de829595b86bc84535a728768
+
